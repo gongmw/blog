@@ -2,6 +2,11 @@
 # <i class="fas fa-book fa-1x"></i> Blog
 ## <span style=" color: Dodgerblue;"><i class="fas fa-glasses fa-2x "></i></span>   从现象看本质
 ***
+## 2020年-04月
+### 竹外桃花三两枝 春江水暖鸭先知
+* [实现微信小程序最新运行环境系列(核心篇 一)](https://github.com/gongmw/blog/issues/7)
+
+<br/>
 
 ## 2020年-03月
 ### 春水满四泽 夏云多奇峰
