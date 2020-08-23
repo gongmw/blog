@@ -1,5 +1,5 @@
 
-# <i class="fas fa-book fa-1x"></i> Blog
+# <i class="fas fa-book fa-1x"></i> Blog（更多内容查看issues）
 ## <span style=" color: Dodgerblue;"><i class="fas fa-glasses fa-2x "></i></span>   从现象看本质
 ***
 ## 2020年-04月
