@@ -1,8 +1,19 @@
 
 **更多内容欢迎关注微信公众号《一起学Node》**
-# <i class="fas fa-book fa-1x"></i> Blog（可查看issues）
+# <i class="fas fa-book fa-1x"></i> Blog（更多内容可查看issues）
 ## <span style=" color: Dodgerblue;"><i class="fas fa-glasses fa-2x "></i></span>   从现象看本质
 ***
+## Node.js相关
+* [Node.js专栏导读](https://github.com/gongmw/blog/issues/13)
+
+* [Node.js前世今生](https://github.com/gongmw/blog/issues/17)
+
+<br/>
+<br/>
+
+
+## 小程序相关
+
 ## 2020年-04月
 ### 竹外桃花三两枝 春江水暖鸭先知
 * [实现微信小程序最新运行环境系列(核心篇 一)](https://github.com/gongmw/blog/issues/7)
