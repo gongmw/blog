@@ -21,6 +21,9 @@
 ## 2020年-04月
 ### 竹外桃花三两枝 春江水暖鸭先知
 * [实现微信小程序最新运行环境系列(核心篇 一)](https://github.com/gongmw/blog/issues/7)
+* [实现微信小程序最新运行环境系列(核心篇 二)](https://github.com/gongmw/blog/issues/8)
+* [实现微信小程序最新运行环境系列(核心篇 三)](https://github.com/gongmw/blog/issues/9)
+* [实现微信小程序最新运行环境系列(核心篇 四)](https://github.com/gongmw/blog/issues/18)
 
 <br/>
 
