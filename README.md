@@ -1,5 +1,7 @@
 
-**更多内容欢迎关注微信公众号《一起学Node》**
+# **更多内容欢迎关注我的微信公众号《一起学Node》**
+![](https://img-blog.csdnimg.cn/20200724155237542.png)
+
 # <i class="fas fa-book fa-1x"></i> Blog（更多内容可查看issues）
 ## <span style=" color: Dodgerblue;"><i class="fas fa-glasses fa-2x "></i></span>   从现象看本质
 ***
